@@ -1,11 +1,23 @@
 # awesome-pulsar [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
 
-A curated list of delightful Apache Pulsar [packages](#packages) and [resources](#resources).
+A curated list of awesome things about Apache Pulsar
 
-> Apache Pulsar (incubating) is a next-generation pub/sub messaging system developed at Yahoo. Pulsar was developed from the ground up to address several shortcomings of existing open source messaging systems and has been running in production for three years, powering critical applications like Yahoo! Mail, Yahoo! Finance, Yahoo! Sports, Flickr, the Gemini Ads Platform, and Sherpa, Yahoo’s distributed key value store. Pulsar was open sourced in late 2016 and is currently undergoing incubation under the auspices of the Apache Software Foundation. In this blog post, we will highlight key features of Pulsar that are available out of the box. ([Why Apache Pulsar](https://streaml.io/blog/why-apache-pulsar) )
+> Apache Pulsar is a next-generation pub/sub messaging system developed at Yahoo. Pulsar was developed from the ground up to address several shortcomings of existing open source messaging systems and has been running in production for three years, powering critical applications like Yahoo! Mail, Yahoo! Finance, Yahoo! Sports, Flickr, the Gemini Ads Platform, and Sherpa, Yahoo’s distributed key value store. Pulsar was open sourced in late 2016 and is currently undergoing incubation under the auspices of the Apache Software Foundation. In this blog post, we will highlight key features of Pulsar that are available out of the box. ([Why Apache Pulsar](https://streaml.io/blog/why-apache-pulsar) )
 
 ![](https://streaml.io/media/img/blog/pulsar-partitions.png)
 
+
+Here are cool features supported
+
+- Geo-Replication
+- Multi-Tenant
+- Zero Data Loss
+- Zero Rebalancing time
+- Unified Queuing and Streaming Model
+- Highly Scalable
+- High Throughput
+- Pulsar Proxy
+- Functions
 
 You can help by sending Pull Requests to add more information
 
@@ -24,6 +36,8 @@ You can help by sending Pull Requests to add more information
 
 [Why Apache Pulsar? Part 1](https://streaml.io/blog/why-apache-pulsar)
 
+[Apache Pulsar — Gentle Introduction](https://medium.com/@pckeyan/apache-pulsar-gentle-introduction-465ca6da0e18)
+
 [Understanding How Apache Pulsar Works](https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works)
 
 [Apache Pulsar 2.0 Brings Enterprise-Class Scale, Speed and Functionality to Streaming Data Processing](https://insidebigdata.com/2018/06/24/apache-pulsar-2-0-brings-enterprise-class-scale-speed-functionality-streaming-data-processing/)
@@ -37,6 +51,8 @@ You can help by sending Pull Requests to add more information
 [Building DistributedLog: High-performance replicated log service](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2015/building-distributedlog-twitter-s-high-performance-replicated-log-servic.html)
 
 [DistributedLog at Twitter for High Performance Logging](https://www.infoq.com/news/2015/10/DistributedLog-Twitter-Logging)
+
+[Code Analysis of Twitter’s DistributedLog](https://www.kiuwan.com/blog/analyzing_distributedlog_twitter-2/)
 
 #### Messaging semantics
 
